@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @elmer-marquez
-- 👀 I’m interested in ... Software Development
+- 👋 Hi, I’m Elmer Marquez
+- 👀 I’m interested in ... Software Development and more..
 - 🌱 I’m currently learning ... Cloud & Cibersecurity
 
 
